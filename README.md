@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Pedro Henrique
 
 🚀 Software Developer | Systems Information Student | Tech Enthusiast
+
 Welcome to my GitHub profile! I'm a Systems Information student at UFCAT, passionate about logic, back-end development, and building efficient solutions through code.
 I enjoy learning how things work under the hood and constantly improving my skills in software architecture and algorithms.
 
