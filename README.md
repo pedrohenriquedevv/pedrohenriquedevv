@@ -24,10 +24,5 @@ Git • GitHub • Visual Studio • PyCharm • Excel Intermediary
 💼 [LinkedIn](https://linkedin.com/in/pedro-henrique-1b8298259)
 ✉️ pepellopes220907@gmail.com
 
-📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&theme=radical)
-
 ⭐ Thanks for visiting my profile!
 Feel free to check out my repositories and connect with me!
