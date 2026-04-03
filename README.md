@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Pedro Henrique
 
-<!--
-**pedrohenriquedevv/pedrohenriquedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | Systems Information Student | Tech Enthusiast
+Welcome to my GitHub profile! I'm a Systems Information student at UFCAT, passionate about logic, back-end development, and building efficient solutions through code.
+I enjoy learning how things work under the hood and constantly improving my skills in software architecture and algorithms.
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’m currently working with C# and Python
+📚 Always learning and exploring new technologies, frameworks, and best practices
+🧩 I love solving logic problems and translating them into clean code
+🎯 My goal is to grow as a developer and build a solid career in the tech industry
+
+🛠️ Tech Stack
+
+Languages:
+C# • Python • SQL
+
+Tools & Others:
+Git • GitHub • Visual Studio • PyCharm • Excel Intermediary
+
+🌍 Find Me Online
+
+💼 [LinkedIn](https://linkedin.com/in/pedro-henrique-1b8298259)
+✉️ pepellopes220907@gmail.com
+
+📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&theme=radical)
+
+⭐ Thanks for visiting my profile!
+Feel free to check out my repositories and connect with me!
