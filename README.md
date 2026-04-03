@@ -21,7 +21,8 @@ Git • GitHub • Visual Studio • PyCharm • Excel Intermediary
 
 🌍 Find Me Online
 
-💼 [LinkedIn](https://linkedin.com/in/pedro-henrique-1b8298259)
+💼 [LinkedIn]https://linkedin.com/in/pedro-henrique-1b8298259
+
 ✉️ pepellopes220907@gmail.com
 
 ⭐ Thanks for visiting my profile!
