@@ -1,67 +1,53 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Status" />
-  <img src="https://img.shields.io/badge/STACK-BACKEND-9cf?style=for-the-badge&logoColor=white&color=black" alt="Backend" />
-  <img src="https://img.shields.io/badge/LOC-CATALÃO_GO-green?style=for-the-badge&color=black" alt="Localização" />
-  <img src="https://img.shields.io/badge/FOCUS-EFFICIENCY-critical?style=for-the-badge&logo=csharp&logoColor=white&color=black" alt="Eficiência" />
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-9cf?style=for-the-badge&logoColor=white&color=black" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/AREA-DATA_ENGINEERING-orange?style=for-the-badge&logoColor=white&color=black" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/LOC-BRAZIL-green?style=for-the-badge&color=black" alt="Location" />
 </p>
 
 ---
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
+## 👨‍💻 About Me
 
-<p>Estudante de <strong>Sistemas de Informação na UFCAT</strong> focado em arquitetura de sistemas e automação. 
-Gosto de entender a lógica por trás dos problemas e construir soluções robustas utilizando <strong>C# (.NET)</strong> e <strong>Python</strong>.</p>
+I am a **Information Systems student at UFCAT** focused on Software Engineering and System Architecture. I am passionate about solving complex problems and building scalable back-end solutions.
 
-<p><strong>Minha filosofia:</strong> Se um processo pode ser otimizado por um algoritmo, ele deve ser. Acredito que a tecnologia deve servir para reduzir a fricção e escalar resultados, seja no código ou no mundo real.</p>
-
-<div style="clear: both;"></div>
+My technical journey is driven by the goal of transforming raw data into valuable insights and optimizing software performance through clean code and efficient algorithms.
 
 ---
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
+## 🎯 Current Focus
 
-<ul>
-  <li>Consolidar o desenvolvimento <strong>Backend com .NET</strong> e integração de bancos de dados SQL.</li>
-  <li>Aplicar conceitos de <strong>POO</strong> em projetos reais de automação e análise de dados.</li>
-  <li>Explorar a intersecção entre <strong>Lógica de Programação</strong> e sistemas industriais/operacionais.</li>
-</ul>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=github-compact" alt="GitHub activity graph" />
-</p>
+- 🏗️ **Software Engineering:** Building robust and scalable back-end systems.
+- 📊 **Data Engineering:** Designing efficient data pipelines and SQL integrations.
+- 🛠️ **System Architecture:** Applying OOP principles and SOLID patterns.
 
 ---
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Stack e ferramentas</h2>
+## 🛠️ Stack & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=black" alt="C" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white&color=black" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white&color=black" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux" />
 </p>
 
 --- 
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Estatísticas</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO_AQUI&theme=dark" alt="Top Languages" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO_AQUI&theme=dark" alt="Stats" />
-      </td>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-1b8298259/">LinkedIn</a> • 
-  <a href="mailto:pepellopes220907@gmail.com">E-mail</a>
+  <a href="mailto:pepellopes220907@gmail.com">Email</a>
 </p>
