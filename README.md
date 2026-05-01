@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Status" />
   <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-9cf?style=for-the-badge&logoColor=white&color=black" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/AREA-DATA_ENGINEERING-orange?style=for-the-badge&logoColor=white&color=black" alt="Data Engineering" />
   <img src="https://img.shields.io/badge/LOC-BRAZIL-green?style=for-the-badge&color=black" alt="Location" />
 </p>
 
