@@ -68,12 +68,21 @@ Excel VBA · SAP GUI Scripting · Microsoft 365 Copilot · AI Agents · Prompt E
 
 Git · GitHub · GitLab · Playwright · GitHub Actions · VS Code
 
+
 ## GitHub Analytics
 
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=github_dark&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true)
+<p align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=dark_github&hide_border=true"
+    alt="Pedro's GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&langs_count=8&theme=dark_github&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
 
 
 ## Currently Exploring
