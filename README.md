@@ -1,128 +1,87 @@
 # Pedro Henrique Lopes de Araújo
 
-### Software Engineering | Data Engineering | Industrial Automation
+### Software Engineering | Full Stack Development | Go & .NET | Applied AI
 
-Information Systems Student at UFCAT and Maintenance Engineering Apprentice at CMOC Brasil.
+Information Systems undergraduate at **UFCAT**, Co-founder and Full Stack Developer at **Bridge Software**, and Maintenance Engineering Apprentice at **CMOC Brasil**.
 
-Passionate about building real-world solutions through Software Engineering, Data Engineering, Industrial Analytics, and Process Automation.
-
----
+I enjoy turning real-world problems into software solutions, combining product thinking, programming, automation, and data.
 
 ## About Me
 
-My work combines industrial maintenance, software development, automation and data-driven decision making.
+**Bridge Software — Co-founder & Full Stack Developer**
 
-Currently working with:
+I work across the software product lifecycle, from client communication and requirements gathering to solution design, frontend development, testing, and product evolution.
 
-- SAP PM
-- Industrial Process Automation
-- Data Engineering
-- Backend Development
-- IoT & Edge Computing
-- Climate Data Mining
+My main focus is frontend and product engineering, while also working with backend development using **Go (Golang)** and web APIs.
 
-I enjoy transforming operational problems into scalable software solutions and converting raw data into valuable insights.
+**CMOC Brasil — Maintenance Engineering Apprentice**
 
----
+I designed and developed five VBA/SAP automations for industrial maintenance processes, applying business rules, validation, batch processing, and error handling.
 
-## Current Focus
+I also created a corporate AI agent with Microsoft 365 Copilot to interpret maintenance documents and prepare structured information for automation workflows, with human review.
 
-### Software Engineering
-Building robust backend applications using .NET and modern engineering practices.
+**UFCAT — Undergraduate Scientific Researcher**
 
-### Data Engineering
-Developing ETL pipelines, data mining workflows and analytical solutions.
+I work with Python-based data processing and meteorological datasets from INMET, exploring ETL pipelines and association-rule mining with Apriori to support climate-pattern research.
 
-### Industrial Automation
-Automating maintenance and operational processes through SAP integrations and software solutions.
+## Selected Projects
 
-### IoT & Edge Computing
-Researching intelligent monitoring systems using LoRaWAN networks and climate analytics.
+**Radar de Estágios TI** — `C#` `ASP.NET Core` `.NET` `Testing`
 
----
+Software for collecting, organizing, classifying, and tracking technology opportunities, with validation rules, deduplication, automated tests, and CI.
 
-## Featured Projects
+**AI Essay Evaluation Agent** — `Applied AI` `SQLite` `Data Processing`
 
-### SAP Maintenance Process Automation Platform
+Experimental AI-assisted essay evaluation project using a reference dataset of more than 11,000 essays, structured assessment criteria, and consistency checks.
 
-Enterprise process automation solution developed for SAP PM workflows.
+**MaintFlow** — `Node.js` `Express` `SQLite` `REST APIs`
 
-#### Highlights
+Maintenance workflow application with business rules, state management, data persistence, and automated tests.
 
-- Automated Service Order release processes.
-- Automated user status transitions (EP -> PL -> PR -> EX).
-- Automated labor appropriation through IW44.
-- SAP PM integration using SAP GUI Scripting.
-- Validation, auditing and traceability mechanisms.
-- Technical documentation, testing plans and rollback procedures.
-- Productivity improvement of approximately 200%.
+**Web Products & Interactive Interfaces** — `JavaScript` `TypeScript` `Vue 3` `Vite`
 
-**Tech Stack**
+Development of responsive interfaces, product prototypes, custom animations, and interactive web experiences.
 
-`VBA` `SAP PM` `Excel` `SAP GUI Scripting` `Process Automation`
+## Tech Stack
 
----
+**Languages**
 
-### Climate Intelligence Pipeline for LoRaWAN Networks
+C# · Go (Golang) · Python · JavaScript · TypeScript · SQL · VBA
 
-Scientific research project focused on climate pattern discovery and Edge Computing decision support.
+**Backend Development**
 
-#### Highlights
+Go · .NET / ASP.NET Core · Node.js · Express · REST APIs
 
-- ETL pipelines for meteorological datasets.
-- Data Mining using Apriori Association Rules.
-- Climate variable discretization based on official meteorological standards.
-- Support, Confidence and Lift validation.
-- Pattern extraction for intelligent environmental monitoring.
-- Edge Computing business rules for IoT devices.
+**Frontend Development**
 
-**Tech Stack**
+HTML5 · CSS3 · JavaScript · TypeScript · Vue 3 · React · Vite
 
-`Python` `Pandas` `NumPy` `MLxtend` `ETL` `Data Mining` `LoRaWAN`
+**Data & Research**
 
----
+SQLite · Pandas · NumPy · ETL · Data Mining · Apriori
 
-## Technology Stack
+**Automation & Applied AI**
 
-### Languages
+Excel VBA · SAP GUI Scripting · Microsoft 365 Copilot · AI Agents · Prompt Engineering
 
-C# • Python • SQL • VBA • C
+**Tools & Quality**
 
-### Backend
+Git · GitHub · GitLab · Playwright · GitHub Actions · VS Code
 
-.NET • ASP.NET Core • REST APIs
+## GitHub Analytics
 
-### Data
 
-Pandas • NumPy • ETL • Data Mining • Excel • SAP PM
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquedevv&show_icons=true&theme=github_dark&hide_border=true)
 
-### Software Engineering
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedevv&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true)
 
-OOP • Data Structures • Git • GitHub • Logging • Documentation
 
-### Tools
+## Currently Exploring
 
-Visual Studio • Linux • Windows • SAP GUI
+Software architecture, backend development with Go and .NET, frontend engineering, automated testing, and practical applications of AI.
 
----
+## Let's Connect
 
-## Areas of Interest
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-1b8298259/) · [Email](mailto:pepellopes220907@gmail.com)
 
-- Software Engineering
-- Backend Development
-- Data Engineering
-- Industrial Analytics
-- Process Automation
-- IoT
-- Edge Computing
-
----
-
-## Contact
-
-📧 pepellopes220907@gmail.com
-
-🔗 LinkedIn:
-linkedin.com/in/pedro-henrique-1b8298259
-
-📍 Catalão - Goiás - Brazil
+Catalão, Goiás, Brazil
